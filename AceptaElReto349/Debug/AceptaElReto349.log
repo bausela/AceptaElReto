@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\sergi\Desktop\AsignaturasUNI\FAL\AceptaElReto349\Source.cpp(37,27): warning C4244:  '=': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\sergi\Desktop\AsignaturasUNI\FAL\AceptaElReto349\Source.cpp(38,27): warning C4244:  '=': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\sergi\Desktop\AsignaturasUNI\FAL\AceptaElReto349\Source.cpp(79): warning C4715:  'operar': no todas las rutas de acceso de control devuelven un valor
+  AceptaElReto349.vcxproj -> C:\Users\sergi\Desktop\AsignaturasUNI\FAL\AceptaElReto349\Debug\AceptaElReto349.exe
