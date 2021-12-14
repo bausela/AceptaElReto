@@ -24,9 +24,9 @@ int main(){
 void vueltaAtras(int res, int val[], int sol, int k, bool &exito){
     // 0 = +
     // 1 = - 
-    // 2 = /
-    // 3 = *
-    //cout << "entra K:" << k <<endl;
+    // 2 = *
+    // 3 = /
+
     bool esValido = true;
     int i = 0;
     int aux0 = sol;
@@ -87,7 +87,6 @@ void vueltaAtras(int res, int val[], int sol, int k, bool &exito){
     if(!exito && k == 0){
         cout << "NO" <<endl;
     }
-    //cout <<"Sale K: " << k <<endl;
 }
 
 bool esSolucion(int res,int sol){
